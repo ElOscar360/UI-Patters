@@ -1,8 +1,3 @@
-# Taller para la Casa – User Interface Patterns (Java)
-
-Controlador de interfaz en consola para un **Sistema de Configuración y Reservas Universitarias**,
-que aplica un patrón de cada categoría de UI Patterns y evita los Dark Patterns.
-
 ## Estructura del proyecto
 
 ```
@@ -41,3 +36,6 @@ puede armar su reserva sin registrarse y solo se le pide cuenta al guardar, cons
 Cancelar la reserva y cerrar sesión son acciones de **un solo paso** (sin *Roach Motel*), con mensajes neutros
 como "Reserva cancelada." y sin textos que avergüencen al usuario (sin *Confirmshaming*). Además, el sistema
 no muestra costos ocultos ni cargos adicionales a último momento (sin *Drip Pricing*).
+
+## Salida en terminal 
+<img width="1056" height="828" alt="image" src="https://github.com/user-attachments/assets/88217f1e-9b97-4f79-a666-6771c60186cd" />
